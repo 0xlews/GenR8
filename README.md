@@ -1,11 +1,11 @@
 # GenR8 - Password Generator Tool
 
-A powerful command-line utility for generating secure random passwords.
+A command-line utility for generating secure random passwords.
 
 ## Features
 
 - Generate strong random passwords with a single command
-- Customize passwords with optional arguments (uppercase, lowercase, numbers, special characters)
+- Customise passwords with optional arguments (uppercase, lowercase, numbers, special characters)
 - Generate multiple passwords at once
 - Password strength evaluation
 - Copy generated passwords to clipboard automatically
